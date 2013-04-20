@@ -1,3 +1,6 @@
+// currently the goals of Buster Benson, I still need to make it my own
+// https://github.com/busterbenson/public
+
 Goals
 =======================================
 1. identify with supporting identity

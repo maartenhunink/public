@@ -1,3 +1,6 @@
+// currently the beliefs of Buster Benson, I still need to make it my own
+// https://github.com/busterbenson/public
+
 My beliefs
 ==========
 

@@ -1,3 +1,6 @@
+// currently the manifesto of Buster Benson, I still need to make it my own
+// https://github.com/busterbenson/public
+
 Momento Mori (review every morning)
 ===================================
 1. Look, look, look
